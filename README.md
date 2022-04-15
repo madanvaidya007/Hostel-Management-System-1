@@ -25,8 +25,6 @@ Modules as described there are mainly two types of categories, the first one is 
 
 ![Login](https://user-images.githubusercontent.com/49508237/100832885-c03aa000-348e-11eb-822d-46735d58e6a7.jpeg)
 
-![Update](https://user-images.githubusercontent.com/49508237/100832889-c29cfa00-348e-11eb-9240-e6eb5c19df6e.jpeg)
-
 ### Installation
 
 System requires [Netbeans](https://netbeans.apache.org/download/nb120/nb120.html) v12 to run.
@@ -36,7 +34,7 @@ License
 ----
 MIT License
 
-Copyright (c) 2020 Sanjula De Alwis
+Copyright (c) 2022 Madan Vaidya
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
